@@ -1,0 +1,17 @@
+name,source,target,client,data1,data2
+RandomName1,fr,it,RandomClient1,40.21,60.55
+RandomName2,fr,es,RandomClient2,29.84,57.29
+RandomName3,it,es,RandomClient3,25.77,63.92
+RandomName4,de,it,RandomClient4,46.12,42.87
+RandomName5,de,fr,RandomClient5,36.89,50.23
+RandomName6,hu,es,RandomClient6,38.76,48.91
+RandomName7,hu,it,RandomClient7,33.54,52.34
+RandomName8,fr,hu,RandomClient8,38.21,54.98
+RandomName9,fr,it,RandomClient9,22.65,67.32
+RandomName10,it,hu,RandomClient10,23.94,65.78
+RandomName11,hu,fr,RandomClient11,27.33,60.76
+RandomName12,it,es,RandomClient12,37.82,58.44
+RandomName13,es,fr,RandomClient13,33.67,56.21
+RandomName14,hu,it,RandomClient14,30.48,61.89
+RandomName15,es,hu,RandomClient15,28.97,63.57
+RandomName16,de,fr,RandomClient16,31.76,58.33

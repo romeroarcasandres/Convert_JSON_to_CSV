@@ -1,0 +1,114 @@
+  {
+    "RandomName1": {
+      "source": "fr",
+      "target": "it",
+      "client": "RandomClient1",
+      "data1": 40.21,
+      "data2": 60.55
+    },
+    "RandomName2": {
+      "source": "fr",
+      "target": "es",
+      "client": "RandomClient2",
+      "data1": 29.84,
+      "data2": 57.29
+    },
+    "RandomName3": {
+      "source": "it",
+      "target": "es",
+      "client": "RandomClient3",
+      "data1": 25.77,
+      "data2": 63.92
+    },
+    "RandomName4": {
+      "source": "de",
+      "target": "it",
+      "client": "RandomClient4",
+      "data1": 46.12,
+      "data2": 42.87
+    },
+    "RandomName5": {
+      "source": "de",
+      "target": "fr",
+      "client": "RandomClient5",
+      "data1": 36.89,
+      "data2": 50.23
+    },
+    "RandomName6": {
+      "source": "hu",
+      "target": "es",
+      "client": "RandomClient6",
+      "data1": 38.76,
+      "data2": 48.91
+    },
+    "RandomName7": {
+      "source": "hu",
+      "target": "it",
+      "client": "RandomClient7",
+      "data1": 33.54,
+      "data2": 52.34
+    },
+    "RandomName8": {
+      "source": "fr",
+      "target": "hu",
+      "client": "RandomClient8",
+      "data1": 38.21,
+      "data2": 54.98
+    },
+    "RandomName9": {
+      "source": "fr",
+      "target": "it",
+      "client": "RandomClient9",
+      "data1": 22.65,
+      "data2": 67.32
+    },
+    "RandomName10": {
+      "source": "it",
+      "target": "hu",
+      "client": "RandomClient10",
+      "data1": 23.94,
+      "data2": 65.78
+    },
+    "RandomName11": {
+      "source": "hu",
+      "target": "fr",
+      "client": "RandomClient11",
+      "data1": 27.33,
+      "data2": 60.76
+    },
+    "RandomName12": {
+      "source": "it",
+      "target": "es",
+      "client": "RandomClient12",
+      "data1": 37.82,
+      "data2": 58.44
+    },
+    "RandomName13": {
+      "source": "es",
+      "target": "fr",
+      "client": "RandomClient13",
+      "data1": 33.67,
+      "data2": 56.21
+    },
+    "RandomName14": {
+      "source": "hu",
+      "target": "it",
+      "client": "RandomClient14",
+      "data1": 30.48,
+      "data2": 61.89
+    },
+    "RandomName15": {
+      "source": "es",
+      "target": "hu",
+      "client": "RandomClient15",
+      "data1": 28.97,
+      "data2": 63.57
+    },
+    "RandomName16": {
+      "source": "de",
+      "target": "fr",
+      "client": "RandomClient16",
+      "data1": 31.76,
+      "data2": 58.33
+    }
+  }
