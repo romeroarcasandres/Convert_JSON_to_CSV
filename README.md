@@ -29,4 +29,4 @@ The CSV file will have a header row derived from the keys of the first JSON entr
 Unicode encoding (utf-8) is used for reading and writing files to handle diverse character sets.
 
 ## License
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0 license. For comprehensive details, kindly refer to the LICENSE file included with this project.
